@@ -1,5 +1,4 @@
 # ARCO
----
 Arco is an interactive music therapy app that uses AI to analyze facial expressions, detect emotions, and curate personalized playlists with YouTube links. It’s a fresh take on music therapy, combining technology and music to enhance emotional well-being.
 ---
 Team Name: The Three Muses </br>
