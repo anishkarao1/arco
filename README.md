@@ -9,5 +9,6 @@ We have incorporated a large number of complex and amazingly useful softwares to
 2. GoDaddy: It was used to create our unique, and personal domain name - arco-music.co
 3. YouTube API: We have used their services to retrieve the links to the music videos.
 4. Gemini API: Gemini API was used to write prompts to the YouTube API.
-5. DeepFace: ML Model used for the facial recognition feature.
+5. DeepFace: ML Model used for the facial recognition and characterization feature.
+6. Google Colab: Interface used to execute the Python code in the cloud.
 ---
